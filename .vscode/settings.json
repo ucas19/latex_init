@@ -1,4 +1,5 @@
 {
+    "latex-workshop.latex.autoBuild.run": "never",
     "latex-workshop.latex.tools": [
         {
    // 编译工具和命令
